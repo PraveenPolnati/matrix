@@ -5,3 +5,22 @@
 body{
   margin: 0px;
 }
+.App{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: skyblue;
+  line-height: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.App p{
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+  line-height: 120%;
+}
