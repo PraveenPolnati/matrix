@@ -12,7 +12,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: skyblue;
+  background-color: rgb(172, 248, 182);
   line-height: 0;
   padding: 10px;
   text-align: center;
